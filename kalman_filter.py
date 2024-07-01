@@ -1,11 +1,12 @@
 '''
-FilePath: /大作业/kalman_filter.py
-Author: LHL
+Author: Hongliang Lu, lhl@pku.edu.cn
 Date: 2022-05-26 16:32:36
-LastEditTime: 2022-06-03 13:35:41
-LastEditors: LHL
-Copyright 2022 by LHL, All Rights Reserved. 
+LastEditTime: 2024-07-01 22:24:22
+FilePath: /scr/kalman_filter.py
+Description: Kalman filter for 1D data.
+Organization: College of Engineering,Peking University.
 '''
+
 from pykalman import KalmanFilter
 
 
